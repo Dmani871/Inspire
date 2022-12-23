@@ -1,1 +1,3 @@
-# AdviceAPI
+
+# InspireMe
+A quote generator application.
